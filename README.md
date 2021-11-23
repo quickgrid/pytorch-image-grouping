@@ -3,12 +3,12 @@
 Cluster, visualize similar images, get the file path associated with each cluster. This is just for learning purposes and likely will not work good on image classes that are similar.
 
 
-### Image
+## Image
 
 ![clustering_visualization](readme_assets/clustering_visualization.png "clustering_visualization")
 
 
-### Output
+## Output
 
 ```
 {
@@ -77,7 +77,7 @@ Cluster, visualize similar images, get the file path associated with each cluste
 
 
 
-### TODO
+## TODO
 
 - Write clustered data to file.
 - Clean, organize code.
