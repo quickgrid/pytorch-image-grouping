@@ -8,13 +8,6 @@ Cluster, visualize similar images, get the file path associated with each cluste
 
 
 
-### TODO
-
-- Write clustered data to file.
-- Clean, organize code.
-- Speedup code, try batching, approximate nn, .
-
-
 ### Output
 
 ```
@@ -81,3 +74,11 @@ Cluster, visualize similar images, get the file path associated with each cluste
     ]
 }
 ```
+
+
+
+### TODO
+
+- Write clustered data to file.
+- Clean, organize code.
+- Speedup code, try batching, approximate nn, clustering, different layer features.
