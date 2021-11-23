@@ -5,7 +5,7 @@ Cluster, visualize similar images, get the file path associated with each cluste
 
 ### Image
 
-
+![clustering_visualization](readme_assets/clustering_visualization.png "clustering_visualization")
 
 
 ### Output
