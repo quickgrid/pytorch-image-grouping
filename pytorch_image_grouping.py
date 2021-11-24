@@ -160,7 +160,7 @@ def cluster_images(image_feature_list, image_path_list):
     img_feature_embedding = pca.fit_transform(image_feature_list)
     print(img_feature_embedding.shape)
 
-    # Do approximate nearest neighbour on the lower dimension embedding to get similar images.
+    # TODO: Approximate nearest neighbour on the lower dimension embedding to get similar images.
     print('STARTED CLUSTERING')
     number_clusters = 3
     kmeans = KMeans(n_clusters=number_clusters, random_state=0).fit(np.array(img_feature_embedding))
